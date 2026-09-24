@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-I built this **Expense Tracker built with Python** that helps users record, manage, search, and analyze their daily expenses.
+I built this **Expense Tracker  with Python** that helps users record, manage, search, and analyze their daily expenses.
 
 ## 📌 About the Project
 
