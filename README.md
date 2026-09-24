@@ -54,5 +54,5 @@ The Expense Tracker allows users to add expenses with details such as category, 
 Expense-Tracker/
 │
 ├── Expenses_Tracker.py
-├── expenses.json
-└── README.md
+├── README.md
+└── expenses.json
