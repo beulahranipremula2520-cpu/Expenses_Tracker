@@ -55,4 +55,3 @@ Expense-Tracker/
 │
 ├── Expenses_Tracker.py
 ├── README.md
-└── expenses.json
