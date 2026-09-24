@@ -1,0 +1,26 @@
+[
+    {
+        "category": "food",
+        "amount": 1000.0,
+        "description": "lunch",
+        "date": "20-09-2026"
+    },
+    {
+        "category": "travel",
+        "amount": 4000.0,
+        "description": "train",
+        "date": "25-08-2026"
+    },
+    {
+        "category": "fees",
+        "amount": 50000.0,
+        "description": "education",
+        "date": "01-01-2025"
+    },
+    {
+        "category": "shopping",
+        "amount": 5000.0,
+        "description": "festival",
+        "date": "25-12-2026"
+    }
+]
